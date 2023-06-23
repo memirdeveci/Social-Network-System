@@ -20,6 +20,7 @@ namespace SNSProject.Controllers
 
         public IActionResult Privacy()
         {
+            //dasa
             return View();
         }
 
